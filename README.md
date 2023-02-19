@@ -6,6 +6,7 @@
 
 AREA stands for Action REAction.
 
+![Cover](https://github.com/MaximeHff/Area/blob/main/area.jpg)
 ## What's AREA?
 
 AREA is a software suite that have the objective to create links between Actions and Reactions from different services with the use of triggers.
